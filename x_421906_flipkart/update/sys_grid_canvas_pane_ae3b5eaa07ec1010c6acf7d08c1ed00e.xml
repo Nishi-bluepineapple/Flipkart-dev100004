@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Financing Performance - Today">8b7e2a1607241010c6acf7d08c1ed075</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-05-06 02:24:00">523b5eaa07ec1010c6acf7d08c1ed00c</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-06 09:24:00</sys_created_on>
+        <sys_id>ae3b5eaa07ec1010c6acf7d08c1ed00e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8b7e2a1607241010c6acf7d08c1ed075</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_ae3b5eaa07ec1010c6acf7d08c1ed00e</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-06 09:24:00</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

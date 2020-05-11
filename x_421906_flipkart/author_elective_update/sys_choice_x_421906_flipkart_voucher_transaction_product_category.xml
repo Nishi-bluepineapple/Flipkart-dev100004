@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_category" table="x_421906_flipkart_voucher_transaction" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Auto 45 Day Credit</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-04 04:21:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24c24ff507e89010c6acf7d08c1ed084</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 15:32:21</sys_updated_on>
+            <value>auto45day_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Buy Now Pay Later</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-04 04:21:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0d2033907e89010c6acf7d08c1ed0c4</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 16:01:58</sys_updated_on>
+            <value>buynow_paylater</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cardless Credit</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-04 04:21:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24b287f507e89010c6acf7d08c1ed0c8</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 15:32:08</sys_updated_on>
+            <value>cardless_credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insurance</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-05 15:37:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b436e25e07e01010c6acf7d08c1ed05f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 15:37:05</sys_updated_on>
+            <value>insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seller Discount Subsidy</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-05 15:33:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f952e1e07e01010c6acf7d08c1ed01f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 15:34:01</sys_updated_on>
+            <value>seller_discount_subsidy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unsecured QikLak</label>
+            <language>en</language>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sequence/>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-05 16:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dbca69207241010c6acf7d08c1ed037</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 16:03:14</sys_updated_on>
+            <value>unsecured_qiklak</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_category</element>
+            <name>x_421906_flipkart_voucher_transaction</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-04 04:21:17</sys_created_on>
+            <sys_id>a4c20bf507e89010c6acf7d08c1ed0d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product_category</sys_name>
+            <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+            <sys_update_name>sys_choice_x_421906_flipkart_voucher_transaction_product_category</sys_update_name>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-04 04:21:17</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

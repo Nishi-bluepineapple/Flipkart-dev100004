@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2020-05-05 17:08:03</change_date>
+        <changed_by display_value="Sanket N C">a8661665076c5010c6acf7d08c1ed09a</changed_by>
+        <content display_value="Agent Workspace Guided Setup">a869052fdb081300c47f5f135e961910</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 17:08:03</sys_created_on>
+        <sys_id>9adb7e5e07241010c6acf7d08c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2020-05-05 17:08:03</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>gsw_change_log_9adb7e5e07241010c6acf7d08c1ed027</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:08:03</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

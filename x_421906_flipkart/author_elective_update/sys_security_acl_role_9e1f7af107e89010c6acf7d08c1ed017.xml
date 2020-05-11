@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 04:05:18</sys_created_on>
+        <sys_id>9e1f7af107e89010c6acf7d08c1ed017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421906_flipkart_voucher_master.x_421906_flipkart.voucher_master_user</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_security_acl display_value="x_421906_flipkart_voucher_master">961f7af107e89010c6acf7d08c1ed012</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9e1f7af107e89010c6acf7d08c1ed017</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 04:05:18</sys_updated_on>
+        <sys_user_role display_value="x_421906_flipkart.voucher_master_user" name="x_421906_flipkart.voucher_master_user">861f3af107e89010c6acf7d08c1ed0f4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</application>
+        <file_path/>
+        <instance_id>44091aaadb328c108aea21c40596193e</instance_id>
+        <instance_name>dev100004</instance_name>
+        <name>sys_security_acl_role_9e1f7af107e89010c6acf7d08c1ed017</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>raghu</sys_created_by><sys_created_on>2020-05-04 04:05:18</sys_created_on><sys_id>9e1f7af107e89010c6acf7d08c1ed017</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_421906_flipkart_voucher_master.x_421906_flipkart.voucher_master_user</sys_name><sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package><sys_policy/><sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope><sys_security_acl display_value="x_421906_flipkart_voucher_master">961f7af107e89010c6acf7d08c1ed012</sys_security_acl><sys_update_name>sys_security_acl_role_9e1f7af107e89010c6acf7d08c1ed017</sys_update_name><sys_updated_by>raghu</sys_updated_by><sys_updated_on>2020-05-04 04:05:18</sys_updated_on><sys_user_role display_value="x_421906_flipkart.voucher_master_user" name="x_421906_flipkart.voucher_master_user">861f3af107e89010c6acf7d08c1ed0f4</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1353285897</payload_hash>
+        <record_name>x_421906_flipkart_voucher_master.x_421906_flipkart.voucher_master_user</record_name>
+        <reverted_from/>
+        <source>622c1955072c1010c6acf7d08c1ed09b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 04:05:18</sys_created_on>
+        <sys_id>1e1f7af107e89010c6acf7d08c1ed028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171dddc0d410000001</sys_recorded_at>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 04:05:18</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>561f7af1e6e890104a030653ee535228</update_guid>
+        <update_guid_history>561f7af1e6e890104a030653ee535228:-1353285897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_421906_flipkart_voucher_master.x_421906_flipkart.voucher_master_user">08214f7507e89010c6acf7d08c1ed0f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 04:14:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>48909ac519e3427c853ae5a67b9d2c69</sys_id>
+        <sys_metadata>9e1f7af107e89010c6acf7d08c1ed017</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_421906_flipkart_voucher_master.x_421906_flipkart.voucher_master_user</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_parent display_value="x_421906_flipkart_voucher_master">961f7af107e89010c6acf7d08c1ed012</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_scope_delete display_value="">78a569f95ac7484fa7719a5cd8f2f621</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9e1f7af107e89010c6acf7d08c1ed017</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9e1f7af107e89010c6acf7d08c1ed017">1e1f7af107e89010c6acf7d08c1ed028</sys_update_version>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 04:14:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

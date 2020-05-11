@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service Base Entities" source="com.snc.cs_base">900e3a9907605010c6acf7d08c1ed0fe</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:51:03</sys_created_on>
+        <sys_id>91f7feda07241010c6acf7d08c1ed077</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:51:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

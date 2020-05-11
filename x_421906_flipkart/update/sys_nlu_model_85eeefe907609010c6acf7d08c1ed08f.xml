@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_nlu_model">
+    <sys_nlu_model action="INSERT_OR_UPDATE">
+        <confidence_threshold>0.6</confidence_threshold>
+        <description>Buyer Finance Live</description>
+        <display_name>Buyer Finance Live</display_name>
+        <name>global_de2c1955072c1010c6acf7d08c1ed098_Buyer_Finance_Live</name>
+        <state>Published</state>
+        <sys_class_name>sys_nlu_model</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-03 12:55:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>85eeefe907609010c6acf7d08c1ed08f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Buyer Finance Live</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_nlu_model_85eeefe907609010c6acf7d08c1ed08f</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-03 12:55:37</sys_updated_on>
+    </sys_nlu_model>
+</record_update>

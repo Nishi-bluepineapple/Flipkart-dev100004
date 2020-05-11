@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[4],"annotatedString":"Can you change my {{phrase=\"seller\"}} finance terms"}]</annotation>
+        <entity display_value="Seller">c05309b107a49010c6acf7d08c1ed016</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-03 19:04:30</sys_created_on>
+        <sys_id>245389b107a49010c6acf7d08c1ed0fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Seller.Can you change my seller finance terms</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_245389b107a49010c6acf7d08c1ed0fa</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-03 19:04:30</sys_updated_on>
+        <utterance display_value="Can you change my seller finance terms">0f33897107a49010c6acf7d08c1ed027</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

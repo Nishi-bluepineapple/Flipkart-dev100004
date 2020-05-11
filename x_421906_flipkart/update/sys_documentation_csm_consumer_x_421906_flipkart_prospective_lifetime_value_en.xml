@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_421906_flipkart_prospective_lifetime_value" label="Prospective Lifetime Value" language="en" table="csm_consumer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_421906_flipkart_prospective_lifetime_value</element>
+            <help/>
+            <hint/>
+            <label>Prospective Lifetime Value</label>
+            <language>en</language>
+            <name>csm_consumer</name>
+            <plural>Prospective Lifetime Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>raghu</sys_created_by>
+            <sys_created_on>2020-05-05 17:45:14</sys_created_on>
+            <sys_id>0f54835607641010c6acf7d08c1ed0e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Prospective Lifetime Value</sys_name>
+            <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+            <sys_update_name>sys_documentation_csm_consumer_x_421906_flipkart_prospective_lifetime_value_en</sys_update_name>
+            <sys_updated_by>raghu</sys_updated_by>
+            <sys_updated_on>2020-05-05 17:45:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

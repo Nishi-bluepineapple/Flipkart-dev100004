@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_entity">
+    <sys_nlu_entity action="INSERT_OR_UPDATE">
+        <base_entity/>
+        <field_name/>
+        <model/>
+        <name>Finance</name>
+        <sys_class_name>sys_nlu_entity</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-03 19:04:56</sys_created_on>
+        <sys_id>476309b107a49010c6acf7d08c1ed0fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_nlu_entity_476309b107a49010c6acf7d08c1ed0fe</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-03 19:04:56</sys_updated_on>
+        <table/>
+        <type>simple</type>
+        <values_list/>
+    </sys_nlu_entity>
+</record_update>

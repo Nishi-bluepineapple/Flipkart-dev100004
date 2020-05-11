@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Today: Seller Loans Financed">48c8122a07ec1010c6acf7d08c1ed046</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-06 09:13:10</sys_created_on>
+        <sys_id>ccc8122a07ec1010c6acf7d08c1ed046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48c8122a07ec1010c6acf7d08c1ed046</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_report_users_groups_ccc8122a07ec1010c6acf7d08c1ed046</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-06 09:13:10</sys_updated_on>
+        <user_id display_value="Sanket N C">a8661665076c5010c6acf7d08c1ed09a</user_id>
+    </sys_report_users_groups>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_421906_flipkart_voucher_transaction">x_421906_flipkart_voucher_transaction</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>VOU</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 04:17:07</sys_created_on>
+        <sys_id>afc10fb507e89010c6acf7d08c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VOU</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_number_afc10fb507e89010c6acf7d08c1ed01f</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 04:17:07</sys_updated_on>
+    </sys_number>
+</record_update>

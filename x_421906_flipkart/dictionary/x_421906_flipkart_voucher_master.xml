@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Finance Campaign" max_length="40" name="x_421906_flipkart_voucher_master" sizeclass="7" type="collection">
+        <element label="Amount" max_length="40" name="amount" type="integer"/>
+        <element display="true" label="Campaign Name" max_length="40" name="campaign_name" type="string"/>
+        <element choice="1" default="buyer" label="Customer type" max_length="40" name="customer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Buyer" value="buyer"/>
+                <element inactive_on_update="false" label="Seller" value="seller"/>
+            </choice>
+        </element>
+        <element label="Voucher Code" max_length="40" name="voucher_code" type="string"/>
+    </element>
+</database>

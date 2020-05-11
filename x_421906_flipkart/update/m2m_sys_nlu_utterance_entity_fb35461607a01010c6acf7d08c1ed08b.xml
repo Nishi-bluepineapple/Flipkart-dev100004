@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[3],"annotatedString":"My Buyer finance {{phrase=\"EMI\"}} term needs to change"}]</annotation>
+        <entity display_value="EMI">3ae0bb6d07609010c6acf7d08c1ed020</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>pradeep</sys_created_by>
+        <sys_created_on>2020-05-05 13:09:30</sys_created_on>
+        <sys_id>fb35461607a01010c6acf7d08c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EMI.My Buyer finance EMI term needs to change</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_fb35461607a01010c6acf7d08c1ed08b</sys_update_name>
+        <sys_updated_by>pradeep</sys_updated_by>
+        <sys_updated_on>2020-05-05 13:09:30</sys_updated_on>
+        <utterance display_value="My Buyer finance EMI term needs to change">bfafab2d07609010c6acf7d08c1ed07c</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

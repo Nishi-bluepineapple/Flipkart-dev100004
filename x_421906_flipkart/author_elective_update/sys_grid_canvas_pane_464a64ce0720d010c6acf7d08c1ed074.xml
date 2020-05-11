@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Voucher Analytics - New Tab 3">0def9cc60720d010c6acf7d08c1ed088</grid_canvas>
+        <height>11</height>
+        <portal_widget display_value="Created 2020-05-04 04:53:35">c64aac8e0720d010c6acf7d08c1ed0a4</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 11:53:35</sys_created_on>
+        <sys_id>464a64ce0720d010c6acf7d08c1ed074</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>0def9cc60720d010c6acf7d08c1ed088</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_464a64ce0720d010c6acf7d08c1ed074</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 11:55:47</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</application>
+        <file_path/>
+        <instance_id>44091aaadb328c108aea21c40596193e</instance_id>
+        <instance_name>dev100004</instance_name>
+        <name>sys_grid_canvas_pane_464a64ce0720d010c6acf7d08c1ed074</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Voucher Analytics - New Tab 3">0def9cc60720d010c6acf7d08c1ed088</grid_canvas><height>11</height><portal_widget display_value="Created 2020-05-04 04:53:35">c64aac8e0720d010c6acf7d08c1ed0a4</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>raghu</sys_created_by><sys_created_on>2020-05-04 11:53:35</sys_created_on><sys_id>464a64ce0720d010c6acf7d08c1ed074</sys_id><sys_mod_count>7</sys_mod_count><sys_name>0def9cc60720d010c6acf7d08c1ed088</sys_name><sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package><sys_policy/><sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope><sys_update_name>sys_grid_canvas_pane_464a64ce0720d010c6acf7d08c1ed074</sys_update_name><sys_updated_by>raghu</sys_updated_by><sys_updated_on>2020-05-04 11:55:47</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1705948103</payload_hash>
+        <record_name>0def9cc60720d010c6acf7d08c1ed088</record_name>
+        <reverted_from/>
+        <source>622c1955072c1010c6acf7d08c1ed09b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 11:55:47</sys_created_on>
+        <sys_id>5acaa8ce0720d010c6acf7d08c1ed026</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171df8acbfa0000001</sys_recorded_at>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 11:55:47</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>d2caa8cea420d01026f890edd951dc26</update_guid>
+        <update_guid_history>d2caa8cea420d01026f890edd951dc26:-1705948103,349ae4ce7120d010ff90397edb2ee778:1202794966,9c9a64ced820d010c48cf8c1e944d196:2001758292,a78a68ce5420d01006cead67d8dba773:201964115,aa8a28cefe20d010d09deb94eca02226:1306379350,188ae4cef920d01098319aba3ed7d1cd:37109338,167ae4cef420d010b667b846c8c2b807:201964115,da4a64cead20d010146d9dee926f4575:-929328084</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 11:55:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>21caf9ff920640568eb2319e948b1fd9</sys_id>
+        <sys_metadata>464a64ce0720d010c6acf7d08c1ed074</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0def9cc60720d010c6acf7d08c1ed088</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_scope_delete display_value="">78a569f95ac7484fa7719a5cd8f2f621</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_464a64ce0720d010c6acf7d08c1ed074</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_464a64ce0720d010c6acf7d08c1ed074">5acaa8ce0720d010c6acf7d08c1ed026</sys_update_version>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 11:55:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

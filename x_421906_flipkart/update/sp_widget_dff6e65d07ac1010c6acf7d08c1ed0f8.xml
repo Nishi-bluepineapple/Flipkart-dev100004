@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  
+	 var c = this;
+	c.slideInterval=3000;
+	c.slides= [
+		{id: 0, image: "horizontal_scroll.jpg"},
+		{id: 1, image: "horizontal_scroll2.jpg"}
+	];
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>horizontalbanner</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>HorizontalBanner</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>Neel</sys_created_by>
+        <sys_created_on>2020-05-02 13:02:59</sys_created_on>
+        <sys_id>dff6e65d07ac1010c6acf7d08c1ed0f8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>HorizontalBanner</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sp_widget_dff6e65d07ac1010c6acf7d08c1ed0f8</sys_update_name>
+        <sys_updated_by>Neel</sys_updated_by>
+        <sys_updated_on>2020-05-02 13:11:43</sys_updated_on>
+        <template><![CDATA[<div class="container-fluid no-pad">
+      <uib-carousel interval="c.slideInterval" no-wrap="noWrapSlides">
+      <uib-slide ng-repeat="slide in c.slides" active="slide.active" index="slide.id">
+        <img ng-src="{{slide.image}}" style="margin:auto;">
+      </uib-slide>
+    </uib-carousel>
+
+ 
+</div>
+
+]]></template>
+    </sp_widget>
+</record_update>

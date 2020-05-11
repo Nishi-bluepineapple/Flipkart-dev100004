@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic">
+    <sys_cb_topic action="INSERT_OR_UPDATE">
+        <applicability/>
+        <category display_value="Setup Topics">5628e7f27373230025d032e954f6a7de</category>
+        <connect_queue/>
+        <description>Enables users to request a live agent and view items that a live agent can assist with.</description>
+        <flexible_conversation_switching>false</flexible_conversation_switching>
+        <graph>{
+  "goals": {
+    "69877c34de064512ba24b75c053b1556": {
+      "id": "69877c34de064512ba24b75c053b1556",
+      "trigger": {
+        "type": "primary"
+      },
+      "name": "primary",
+      "applicability": "",
+      "description": "",
+      "nodes": {
+        "b9c454222f27400986d0c7e4105df6ad": {
+          "id": "b9c454222f27400986d0c7e4105df6ad",
+          "stepType": "Start",
+          "name": "Start",
+          "greetingResponse": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "a92084917c74456d888dfdb22f192764": {
+          "id": "a92084917c74456d888dfdb22f192764",
+          "stepType": "TerminateGoal",
+          "name": "End",
+          "confirmationMessage": {
+            "mode": "simple",
+            "value": ""
+          }
+        },
+        "e281bb65b99d4c30a42fba279c6d4191": {
+          "id": "e281bb65b99d4c30a42fba279c6d4191",
+          "name": "Connect To BF Agent",
+          "script": "(function execute() {\n\n    //Buyer Finance Support Queue Id (AWA queue)\n    vaVars.LiveAgent_queue = 'ea021f2507209010c6acf7d08c1ed0ca';\n\n    gs.info('Live Agent Available : [' + vaSystem.isLiveAgentAvailable() + ']');\n \n    if(vaSystem.isLiveAgentAvailable()){\n        gs.info('Attempting to connect to available agents...');\n        vaSystem.connectToAgent();\n    }else{\n        gs.info('No Agent Available - .');\n        var multiOutMsg = new sn_cs.MultiPartOutMsg();\n        multiOutMsg.addPlainTextPart('Sorry, No agents are available right away. Please try again later.');\n        return multiOutMsg;\n    }\n    \n})()\n",
+          "stepType": "ScriptAction",
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        },
+        "3b723113ffb94189b730f996738ace05": {
+          "id": "3b723113ffb94189b730f996738ace05",
+          "stepType": "TextOutput",
+          "name": "Buyer Finance Agent Prolog",
+          "value": {
+            "value": "Please wait while we try and connect you to a specialised agent.",
+            "mode": "simple"
+          },
+          "applicability": {
+            "value": "",
+            "mode": "query"
+          }
+        }
+      },
+      "edges": [
+        {
+          "id": "0df4a780dc0c42098555b11996dff637",
+          "edgeType": "Edge",
+          "source": "e281bb65b99d4c30a42fba279c6d4191",
+          "target": "a92084917c74456d888dfdb22f192764",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "d6fb8ad811f64eb8a5ae92bddcbf1d87",
+          "edgeType": "Edge",
+          "source": "b9c454222f27400986d0c7e4105df6ad",
+          "target": "3b723113ffb94189b730f996738ace05",
+          "sourcePort": "",
+          "targetPort": ""
+        },
+        {
+          "id": "687fcd20e99f4c6eb4aef67b5f0b5cb4",
+          "edgeType": "Edge",
+          "source": "3b723113ffb94189b730f996738ace05",
+          "target": "e281bb65b99d4c30a42fba279c6d4191",
+          "sourcePort": "",
+          "targetPort": ""
+        }
+      ]
+    }
+  },
+  "graph_api_version": "1.0.16",
+  "variables": {
+    "d37c57d71100466dbc19272afa7c38bf": {
+      "category": "vaInputs",
+      "id": "d37c57d71100466dbc19272afa7c38bf",
+      "label": "User",
+      "name": "user",
+      "table": "sys_user",
+      "varType": "reference"
+    }
+  }
+}</graph>
+        <key_phrases>Live Agent Support,agent,live agent</key_phrases>
+        <library>false</library>
+        <live_agent>false</live_agent>
+        <name>BF Live Agent Support Clone</name>
+        <nlu_intent>EMI Reshaping</nlu_intent>
+        <nlu_intent_label>EMI Reshaping</nlu_intent_label>
+        <nlu_model>global_de2c1955072c1010c6acf7d08c1ed098_Buyer_Finance_Live</nlu_model>
+        <nlu_model_label>Buyer Finance Live</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <roles>public</roles>
+        <sys_class_name>sys_cb_topic</sys_class_name>
+        <sys_created_by>pradeep</sys_created_by>
+        <sys_created_on>2020-05-04 05:34:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>66835fb5072c9010c6acf7d08c1ed059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BF Live Agent Support Clone</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_cb_topic_66835fb5072c9010c6acf7d08c1ed059</sys_update_name>
+        <sys_updated_by>pradeep</sys_updated_by>
+        <sys_updated_on>2020-05-04 05:34:36</sys_updated_on>
+        <variables/>
+    </sys_cb_topic>
+    <sys_variable_value action="delete_multiple" query="document_key=66835fb5072c9010c6acf7d08c1ed059"/>
+</record_update>

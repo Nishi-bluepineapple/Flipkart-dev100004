@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Copy of Buyer Financing Dashboard">837e2ad207241010c6acf7d08c1ed0df</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:09:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df7e2a1607241010c6acf7d08c1ed0a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>837e2ad207241010c6acf7d08c1ed0df</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_df7e2a1607241010c6acf7d08c1ed0a8</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:09:40</sys_updated_on>
+        <tab display_value="Financed Sales">577e2a1607241010c6acf7d08c1ed0a7</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</application>
+        <file_path/>
+        <instance_id>44091aaadb328c108aea21c40596193e</instance_id>
+        <instance_name>dev100004</instance_name>
+        <name>pa_m2m_dashboard_tabs_df7e2a1607241010c6acf7d08c1ed0a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Copy of Buyer Financing Dashboard">837e2ad207241010c6acf7d08c1ed0df</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>raghu</sys_created_by><sys_created_on>2020-05-05 16:09:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>df7e2a1607241010c6acf7d08c1ed0a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>837e2ad207241010c6acf7d08c1ed0df</sys_name><sys_overrides/><sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package><sys_policy/><sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_df7e2a1607241010c6acf7d08c1ed0a8</sys_update_name><sys_updated_by>raghu</sys_updated_by><sys_updated_on>2020-05-05 16:09:40</sys_updated_on><tab display_value="Financed Sales">577e2a1607241010c6acf7d08c1ed0a7</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1628106592</payload_hash>
+        <record_name>837e2ad207241010c6acf7d08c1ed0df</record_name>
+        <reverted_from/>
+        <source>622c1955072c1010c6acf7d08c1ed09b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:09:40</sys_created_on>
+        <sys_id>577e2a1607241010c6acf7d08c1ed0aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e599994d0000001</sys_recorded_at>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:09:40</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>9f7e2a165f24101062e6372a059faea9</update_guid>
+        <update_guid_history>9f7e2a165f24101062e6372a059faea9:-1628106592</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Seller Financing Dashboard">771f625607241010c6acf7d08c1ed012</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:12:27</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>4333239887ef460c9979d5c30948d384</sys_id>
+        <sys_metadata>df7e2a1607241010c6acf7d08c1ed0a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>837e2ad207241010c6acf7d08c1ed0df</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_parent display_value="Seller Financing Dashboard">837e2ad207241010c6acf7d08c1ed0df</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_scope_delete display_value="">78a569f95ac7484fa7719a5cd8f2f621</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_df7e2a1607241010c6acf7d08c1ed0a8</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_df7e2a1607241010c6acf7d08c1ed0a8">577e2a1607241010c6acf7d08c1ed0aa</sys_update_version>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:12:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

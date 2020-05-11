@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="display_image=photo,iterativeDelete=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter" audit="true" label="Consumer" max_length="40" name="csm_consumer" sizeclass="8" text_index="true" type="collection">
+        <element label="Aadhar Verified" max_length="40" name="x_421906_flipkart_aadhar_verified" type="boolean"/>
+        <element default="146000" label="Current Lifetime Value" max_length="20" name="x_421906_flipkart_current_lifetime_value" type="decimal"/>
+        <element default="Jan-Mar 20:  Washing m/c&#13;&#10;Oct-Dec 19: Smartphone, 55 inch LED TV&#13;&#10;Jul-Sep 20: Bluray Player" label="Last 3Q Purchases" max_length="2000" name="x_421906_flipkart_last_3q_purchases" type="string_full_utf8"/>
+        <element default="250000" label="Prospective Lifetime Value" max_length="20" name="x_421906_flipkart_prospective_lifetime_value" type="decimal"/>
+    </element>
+</database>

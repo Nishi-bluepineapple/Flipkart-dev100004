@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>Adds dummy data for 'Today' - 30 records distributed across hardcoded voucher master values</description>
+        <flush_cache>false</flush_cache>
+        <name>VoucherTxnTestData_Today</name>
+        <record_for_rollback>false</record_for_rollback>
+        <run_once>false</run_once>
+        <script><![CDATA[var total_recs = 30;
+var vt = new GlideRecord('x_421906_flipkart_voucher_transaction');
+
+var vms = ['e7de5f71076c9010c6acf7d08c1ed064', 
+			'c3bedb71076c9010c6acf7d08c1ed099',
+			'49927bb107ac9010c6acf7d08c1ed0af',
+			'8cfe9f71076c9010c6acf7d08c1ed0eb', 
+			'b3fe5b71076c9010c6acf7d08c1ed0b1'];
+
+var v_amounts = [1000, 1000, 5000, 10000, 100000]; 
+
+var emi_tenures = [12, 18, 24];
+var product_categories = ['buyer_finance', 'seller_finance', 'insurance'];
+var start_dt = new Date('01/01/2019');
+var end_dt = new Date('01/05/2020');
+var transaction_dt = function (days_ago, period_days) {  
+	var dt = new GlideDateTime(); //now
+	dt.addDays(-1 * days_ago);
+	dt.addDays(Math.floor(Math.random() * period_days));
+	return dt.getDate();
+};
+
+
+for(var co=0;co<total_recs;co++){
+	vt.initialize();
+	var voucher_idx = Math.floor(Math.random() * 5);
+	vt.voucher_master = vms[voucher_idx]; 
+	vt.transaction_amount = v_amounts[voucher_idx] + (10 * Math.random() * v_amounts[voucher_idx]);
+	vt.emi_tenure = emi_tenures[Math.floor(Math.random() * 3)];
+	vt.product_category = product_categories[Math.floor(Math.random() * 3)];
+	vt.transaction_date = transaction_dt(0, 0);
+	vt.insert();
+}
+]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-04 12:03:47</sys_created_on>
+        <sys_id>223ba0020760d010c6acf7d08c1ed010</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VoucherTxnTestData_Today</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sys_script_fix_223ba0020760d010c6acf7d08c1ed010</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-04 12:03:47</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

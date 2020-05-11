@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Financed Sales</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:09:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>577e2a1607241010c6acf7d08c1ed0a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financed Sales</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>pa_tabs_577e2a1607241010c6acf7d08c1ed0a7</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:09:40</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</application>
+        <file_path/>
+        <instance_id>44091aaadb328c108aea21c40596193e</instance_id>
+        <instance_name>dev100004</instance_name>
+        <name>pa_tabs_577e2a1607241010c6acf7d08c1ed0a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Financed Sales</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>raghu</sys_created_by><sys_created_on>2020-05-05 16:09:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>577e2a1607241010c6acf7d08c1ed0a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Financed Sales</sys_name><sys_overrides/><sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package><sys_policy/><sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope><sys_update_name>pa_tabs_577e2a1607241010c6acf7d08c1ed0a7</sys_update_name><sys_updated_by>raghu</sys_updated_by><sys_updated_on>2020-05-05 16:09:40</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-316482310</payload_hash>
+        <record_name>Financed Sales</record_name>
+        <reverted_from/>
+        <source>622c1955072c1010c6acf7d08c1ed09b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:12:27</sys_created_on>
+        <sys_id>802fa25607241010c6acf7d08c1ed027</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e59c24fa0000001</sys_recorded_at>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:12:27</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>537e2a16ee24101091a7231b1cdd8ea8</update_guid>
+        <update_guid_history>537e2a16ee24101091a7231b1cdd8ea8:-434901643,537e2a16ee24101091a7231b1cdd8ea8:-434901643,537e2a16ee24101091a7231b1cdd8ea8:-434901643</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Financed Sales">802fa25607241010c6acf7d08c1ed02c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-05 16:12:27</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>43546b4a834342baad0a133d9af68ea4</sys_id>
+        <sys_metadata>577e2a1607241010c6acf7d08c1ed0a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Financed Sales</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_scope_delete display_value="">78a569f95ac7484fa7719a5cd8f2f621</sys_scope_delete>
+        <sys_update_name>pa_tabs_577e2a1607241010c6acf7d08c1ed0a7</sys_update_name>
+        <sys_update_version display_value="pa_tabs_577e2a1607241010c6acf7d08c1ed0a7">802fa25607241010c6acf7d08c1ed027</sys_update_version>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:12:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

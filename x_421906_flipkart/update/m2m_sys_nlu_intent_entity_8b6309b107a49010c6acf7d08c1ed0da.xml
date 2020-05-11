@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_intent_entity">
+    <m2m_sys_nlu_intent_entity action="INSERT_OR_UPDATE">
+        <entity display_value="Finance">476309b107a49010c6acf7d08c1ed0fe</entity>
+        <intent display_value="Seller Offer">c103c17107a49010c6acf7d08c1ed019</intent>
+        <sys_class_name>m2m_sys_nlu_intent_entity</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2020-05-03 19:04:57</sys_created_on>
+        <sys_id>8b6309b107a49010c6acf7d08c1ed0da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance.Seller Offer</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>m2m_sys_nlu_intent_entity_8b6309b107a49010c6acf7d08c1ed0da</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2020-05-03 19:04:57</sys_updated_on>
+    </m2m_sys_nlu_intent_entity>
+</record_update>

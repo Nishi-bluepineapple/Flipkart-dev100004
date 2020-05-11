@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[3],"annotatedString":"please increase my {{phrase=\"EMI\"}} Term !"}]</annotation>
+        <entity display_value="EMI">3ae0bb6d07609010c6acf7d08c1ed020</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>pradeep</sys_created_by>
+        <sys_created_on>2020-05-05 13:09:26</sys_created_on>
+        <sys_id>0335861607a01010c6acf7d08c1ed0e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EMI.please increase my EMI Term !</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_0335861607a01010c6acf7d08c1ed0e3</sys_update_name>
+        <sys_updated_by>pradeep</sys_updated_by>
+        <sys_updated_on>2020-05-05 13:09:26</sys_updated_on>
+        <utterance display_value="please increase my EMI Term !">3a9fefe907609010c6acf7d08c1ed09e</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

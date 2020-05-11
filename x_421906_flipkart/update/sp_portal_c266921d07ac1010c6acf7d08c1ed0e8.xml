@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="flipkart_home">f91a26d507ec1010c6acf7d08c1ed05d</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Flipkart header">ffb61a1d07ac1010c6acf7d08c1ed041</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>Neel</sys_created_by>
+        <sys_created_on>2020-05-02 11:50:51</sys_created_on>
+        <sys_id>c266921d07ac1010c6acf7d08c1ed0e8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Flipkart1</sys_name>
+        <sys_package display_value="Flipkart" source="x_421906_flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flipkart">de2c1955072c1010c6acf7d08c1ed098</sys_scope>
+        <sys_update_name>sp_portal_c266921d07ac1010c6acf7d08c1ed0e8</sys_update_name>
+        <sys_updated_by>Neel</sys_updated_by>
+        <sys_updated_on>2020-05-03 05:57:31</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>Flipkart1</title>
+        <ts_index_group/>
+        <url_suffix>flipkart2</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=c266921d07ac1010c6acf7d08c1ed0e8"/>
+</record_update>
